@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CSLT_Solution": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
