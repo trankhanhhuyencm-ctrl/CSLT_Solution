@@ -7,7 +7,7 @@
     <Nullable>enable</Nullable>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
-    <StartupObject>CSLT_Solution.Exercise8.Part2</StartupObject>
+    <StartupObject>CSLT_Solution.Exercise7.Part2</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
